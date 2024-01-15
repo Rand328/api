@@ -1,9 +1,9 @@
 ## Node js express
 
-dynamic API
+Dynamic API
 
 ## Middleware
-used Insomnia as middleware between code and database
+Used Insomnia as middleware between code and database
 
 ## DataBase
 Used MongoDB as database
